@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java1-A.iml" filepath="$PROJECT_DIR$/java1-A.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample1/sample1.iml" filepath="$PROJECT_DIR$/sample1/sample1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample1-2/sample1-2.iml" filepath="$PROJECT_DIR$/sample1-2/sample1-2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample1-3/sample1-3.iml" filepath="$PROJECT_DIR$/sample1-3/sample1-3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample1-4/sample1-4.iml" filepath="$PROJECT_DIR$/sample1-4/sample1-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaA-1.iml" filepath="$PROJECT_DIR$/.idea/JavaA-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week02/sample1/sample1.iml" filepath="$PROJECT_DIR$/src/week02/sample1/sample1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week02/sample1-3/sample1-3.iml" filepath="$PROJECT_DIR$/src/week02/sample1-3/sample1-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week02/sample1-4/sample1-4.iml" filepath="$PROJECT_DIR$/src/week02/sample1-4/sample1-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week02/sample1-2/sample1-5.iml" filepath="$PROJECT_DIR$/src/week02/sample1-2/sample1-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/week02/week02.iml" filepath="$PROJECT_DIR$/src/week02/week02.iml" />
     </modules>
   </component>
 </project>
